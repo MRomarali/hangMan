@@ -41,7 +41,7 @@ public class hangManClass {
 
     public void setHangManSecretWord(String hangManSecretWord) {
         hangManSecretWord = "apple" + "watermelon" + "orange" + "pear" + "cherry" + "strawberry" + "nectarine" + "grape" + "mango" + "blueberry" +
-                "pomegranate" + "carambola" + "plum" + "banana" + "raspberry" + "mandarin" + "jackfruit" + "papaya" + "kiwi" + "pineapple" + "lime" + "lemon" +
+                "pomegranate" + "plum" + "banana" + "raspberry" + "mandarin" + "papaya" + "kiwi" + "pineapple" + "lime" + "lemon" +
                 "apricot" + "grapefruit" + "melon" + "coconut" + "avocado" + "peach";
         this.hangManSecretWord = hangManSecretWord;
     }
